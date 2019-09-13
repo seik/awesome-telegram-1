@@ -51,6 +51,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [telepot](https://github.com/nickoala/telepot) - `Python`
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - `x86_64 assembly`
 * [TelegramBotAPI](https://github.com/InsanusMokrassar/TelegramBotAPI) - `Kotlin` bot API library
+* [kotlin-telegram-bot](https://github.com/seik/kotlin-telegram-bot) - `Kotlin` A wrapper for the Telegram Bot API written in Kotlin.
 
 ## Clients
 
